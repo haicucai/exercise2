@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">exercice2</string>
+    <string name="btnhavef">Amusez-vous</string>
+    <string name="btnclickhere">cliquez ici</string>
+    <string name="btndosth">faire quelque chose</string>
+    <string name="btnsurprise">Surprise</string>
+</resources>

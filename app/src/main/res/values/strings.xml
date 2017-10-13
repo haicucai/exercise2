@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">exercise2</string>
+    <string name="btnhavef">Have Fun</string>
+    <string name="btndosth">Do Something</string>
+    <string name="btnclickhere">Click Here</string>
+    <string name="btnsurprise">Surprise</string>
+</resources>
